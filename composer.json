@@ -15,5 +15,15 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Todocoding\\Orgamax\\OrgamaxServiceProvider"
+            ],
+            "aliases": {
+                "Insee": "Todocoding\\Orgamax\\Facades\\Orgamax"
+            }
+        }
+    }
 }
