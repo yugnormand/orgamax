@@ -15,5 +15,6 @@ return [
 
     'consumer_key'    => env('ORGAMAX_API_KEY'),
     'consumer_secret' => env('ORGAMAX_SECRET_KEY'),
+    'consumer_iid' => env('ORGAMAX_IID')
 
 ];
