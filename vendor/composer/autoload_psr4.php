@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Todocoding\\Sendcloud\\' => array($baseDir . '/src'),
+    'Todocoding\\Orgamax\\' => array($baseDir . '/src'),
 );

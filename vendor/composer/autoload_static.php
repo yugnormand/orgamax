@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInitd8a4c766ada033b1326121e693bf1818
 {
     public static $prefixLengthsPsr4 = array (
-        'T' => 
+        'T' =>
         array (
-            'Todocoding\\Sendcloud\\' => 21,
+            'Todocoding\\Orgamax\\' => 21,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Todocoding\\Sendcloud\\' => 
+        'Todocoding\\Orgamax\\' =>
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

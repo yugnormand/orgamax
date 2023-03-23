@@ -1,11 +1,11 @@
 {
-    "name": "todocoding/sendcloud",
+    "name": "todocoding/orgamax",
     "description": "Laravel OrgaMax API",
     "type": "projet",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Todocoding\\Sendcloud\\": "src/"
+            "Todocoding\\Orgamax\\": "src/"
         }
     },
     "authors": [
