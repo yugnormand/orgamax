@@ -4,7 +4,7 @@ namespace Todocoding\Orgamax\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Sendcloud extends Facade
+class Orgamax extends Facade
 {
     protected static function getFacadeAccessor()
     {
