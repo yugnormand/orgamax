@@ -22,7 +22,7 @@
                 "Todocoding\\Orgamax\\OrgamaxServiceProvider"
             ],
             "aliases": {
-                "Insee": "Todocoding\\Orgamax\\Facades\\Orgamax"
+                "Orgamax": "Todocoding\\Orgamax\\Facades\\Orgamax"
             }
         }
     }
