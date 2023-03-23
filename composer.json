@@ -1,7 +1,7 @@
 {
     "name": "todocoding/orgamax",
-    "description": "Laravel OrgaMax API",
-    "type": "projet",
+    "description": "Laravel OrgaMax API.",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "Yug Normand Ngangue Fosso",
+            "name": "Yug Normand Ngnague Fosso",
             "email": "yugnormandngangue@gmail.com"
         }
     ],
