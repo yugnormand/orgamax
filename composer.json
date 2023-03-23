@@ -1,0 +1,19 @@
+{
+    "name": "todocoding/sendcloud",
+    "description": "Laravel OrgaMax API",
+    "type": "projet",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Todocoding\\Sendcloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yug Normand Ngangue Fosso",
+            "email": "yugnormandngangue@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
